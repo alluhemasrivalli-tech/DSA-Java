@@ -1,23 +1,11 @@
-# DSA-Java
-Data Structures and Algorithms problems solved using Java
+# DSA in Java
 
+This repository contains my daily practice of Data Structures and Algorithms using Java.
 
-## Topics
+## Progress
 
-- Arrays
-- Strings
-- Searching
-- Sorting
-- Linked Lists
-- Stack
-- Queue
-- Trees
-- Graphs
-- Recursion
-- Dynamic Programming
+### Day 1
+- Find the Largest Element in an Array
 
-## Problems Solved
-
-### Arrays
-
-1. Find Largest Element in an Array
+### Day 2
+- Find the Second Largest Element in an Array
